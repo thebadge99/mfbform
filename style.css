@@ -1,0 +1,99 @@
+#micon {
+    width: 8% ;
+}
+#nav {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fffbe2;
+    color: #4c5d93;
+    padding: 8px;
+    display: flex;
+}
+#nav p {
+    padding-left: 8px;
+    font-size: 35;
+}
+
+#ficon {
+    width: 250px;
+    position:relative;
+    display: flex;
+    margin-left: 250px;
+    
+    
+}
+
+#box {
+    padding: 8px;
+    display :block
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    width: 750px;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 12px;
+    border-color: #d1d1d1;
+}
+
+#blue {
+    background-color: blue;
+    padding: 30px;
+    width : 750px;
+    font-family: Arial;
+    font-size: 40px;
+    margin: 5px;
+    font-weight: bold;
+    color: white;
+    border-radius: 12px;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    color: #1c6ad9;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+p :hover {
+    text-decoration: underline;
+}
+
+#or
+    {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+
+    #green {
+        position: fixed;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
+        background-color: #00a400;
+        padding: 25px;
+        width : 550px;
+        font-family: Arial;
+        font-size: 40px;
+        margin: 5px;
+        font-weight: bold;
+        color: white;
+        border-radius: 12px;
+        margin-left: 100px;
+    }
+
+    #lan {
+        color: #516a93;
+        font-size: 36px;
+    }
+
+    #ft {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #939393;
+        text-align: center;
+        font-size: 25px;
+    }
